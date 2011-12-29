@@ -452,6 +452,7 @@ typedef enum cec_user_control_code
   CEC_USER_CONTROL_CODE_F5                          = 0x75,
   CEC_USER_CONTROL_CODE_DATA                        = 0x76,
   CEC_USER_CONTROL_CODE_MAX                         = 0x76,
+  CEC_USER_CONTROL_CODE_CHANNEL_LIST                = 0x93,
   CEC_USER_CONTROL_CODE_UNKNOWN
 } cec_user_control_code;
 
